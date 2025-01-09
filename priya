@@ -1,1 +1,2 @@
 Directories that are removed with the rmdir command cannot be recovered, nor can directories and their contents removed with the rm -r command.
+To remove a directory and all its contents, including any subdirectories and files,
